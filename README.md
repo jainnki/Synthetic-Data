@@ -1,2 +1,2 @@
-# What-contribute-to-social-media-engagement
-Twitter Social Media Engagement ML regression model prediction
+# Synthetic Data Generation
+NoGAN Synthetic Data Genration vs Other Approaches
